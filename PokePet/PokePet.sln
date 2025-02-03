@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokePetLibrary", "PokePetLibrary.csproj", "{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokePetConsole", "..\PokeTamaConsole\PokePetConsole.csproj", "{F05E0BF7-973A-492D-BEED-3968A71248B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05E0BF7-973A-492D-BEED-3968A71248B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05E0BF7-973A-492D-BEED-3968A71248B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05E0BF7-973A-492D-BEED-3968A71248B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05E0BF7-973A-492D-BEED-3968A71248B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

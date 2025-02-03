@@ -1,0 +1,13 @@
+C:\prog-z\projetos-c-\PokePet\bin\Debug\net8.0\PokePet.deps.json
+C:\prog-z\projetos-c-\PokePet\bin\Debug\net8.0\PokePet.dll
+C:\prog-z\projetos-c-\PokePet\bin\Debug\net8.0\PokePet.pdb
+C:\prog-z\projetos-c-\PokePet\obj\Debug\net8.0\PokePet.csproj.AssemblyReference.cache
+C:\prog-z\projetos-c-\PokePet\obj\Debug\net8.0\PokePet.GeneratedMSBuildEditorConfig.editorconfig
+C:\prog-z\projetos-c-\PokePet\obj\Debug\net8.0\PokePet.AssemblyInfoInputs.cache
+C:\prog-z\projetos-c-\PokePet\obj\Debug\net8.0\PokePet.AssemblyInfo.cs
+C:\prog-z\projetos-c-\PokePet\obj\Debug\net8.0\PokePet.csproj.CoreCompileInputs.cache
+C:\prog-z\projetos-c-\PokePet\obj\Debug\net8.0\PokePet.sourcelink.json
+C:\prog-z\projetos-c-\PokePet\obj\Debug\net8.0\PokePet.dll
+C:\prog-z\projetos-c-\PokePet\obj\Debug\net8.0\refint\PokePet.dll
+C:\prog-z\projetos-c-\PokePet\obj\Debug\net8.0\PokePet.pdb
+C:\prog-z\projetos-c-\PokePet\obj\Debug\net8.0\ref\PokePet.dll
