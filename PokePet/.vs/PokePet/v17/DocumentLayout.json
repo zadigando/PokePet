@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\prog-z\\projetos-c-\\PokePet\\",
+  "WorkspaceRootPath": "C:\\prog-z\\PokePet\\PokePet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|c:\\prog-z\\projetos-c-\\pokepet\\views\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|solutionrelative:views\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|c:\\prog-z\\projetos-c-\\pokepet\\controllers\\tamagotchicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|solutionrelative:controllers\\tamagotchicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F05E0BF7-973A-492D-BEED-3968A71248B8}|..\\PokeTamaConsole\\PokePetConsole.csproj|c:\\prog-z\\projetos-c-\\poketamaconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|c:\\prog-z\\projetos-c-\\pokepet\\mappers\\mascoteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|solutionrelative:mappers\\mascoteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|c:\\prog-z\\projetos-c-\\pokepet\\models\\mascotetamagotchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|solutionrelative:models\\mascotetamagotchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|c:\\prog-z\\projetos-c-\\pokepet\\services\\poketamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|c:\\prog-z\\pokepet\\pokepet\\services\\poketamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|solutionrelative:services\\poketamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|c:\\prog-z\\projetos-c-\\pokepet\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|c:\\prog-z\\pokepet\\pokepet\\controllers\\tamagotchicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|solutionrelative:controllers\\tamagotchicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|c:\\prog-z\\pokepet\\pokepet\\views\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|solutionrelative:views\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|c:\\prog-z\\pokepet\\pokepet\\mappers\\mascoteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|solutionrelative:mappers\\mascoteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|c:\\prog-z\\pokepet\\pokepet\\models\\mascotetamagotchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|solutionrelative:models\\mascotetamagotchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|c:\\prog-z\\pokepet\\pokepet\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C1FDD04-E6E9-411A-96D9-E72CE015D87B}|PokePetLibrary.csproj|solutionrelative:services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\prog-z\\projetos-c-\\PokeTamaConsole\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,43 +37,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MascoteProfile.cs",
-              "DocumentMoniker": "C:\\prog-z\\projetos-c-\\PokePet\\Mappers\\MascoteProfile.cs",
+              "DocumentMoniker": "C:\\prog-z\\PokePet\\PokePet\\Mappers\\MascoteProfile.cs",
               "RelativeDocumentMoniker": "Mappers\\MascoteProfile.cs",
-              "ToolTip": "C:\\prog-z\\projetos-c-\\PokePet\\Mappers\\MascoteProfile.cs",
+              "ToolTip": "C:\\prog-z\\PokePet\\PokePet\\Mappers\\MascoteProfile.cs",
               "RelativeToolTip": "Mappers\\MascoteProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:52:00.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:52:00.739Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MascoteTamagotchi.cs",
-              "DocumentMoniker": "C:\\prog-z\\projetos-c-\\PokePet\\Models\\MascoteTamagotchi.cs",
+              "DocumentMoniker": "C:\\prog-z\\PokePet\\PokePet\\Models\\MascoteTamagotchi.cs",
               "RelativeDocumentMoniker": "Models\\MascoteTamagotchi.cs",
-              "ToolTip": "C:\\prog-z\\projetos-c-\\PokePet\\Models\\MascoteTamagotchi.cs",
+              "ToolTip": "C:\\prog-z\\PokePet\\PokePet\\Models\\MascoteTamagotchi.cs",
               "RelativeToolTip": "Models\\MascoteTamagotchi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:51:27.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:51:27.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MenuView.cs",
-              "DocumentMoniker": "C:\\prog-z\\projetos-c-\\PokePet\\Views\\MenuView.cs",
+              "DocumentMoniker": "C:\\prog-z\\PokePet\\PokePet\\Views\\MenuView.cs",
               "RelativeDocumentMoniker": "Views\\MenuView.cs",
-              "ToolTip": "C:\\prog-z\\projetos-c-\\PokePet\\Views\\MenuView.cs",
+              "ToolTip": "C:\\prog-z\\PokePet\\PokePet\\Views\\MenuView.cs",
               "RelativeToolTip": "Views\\MenuView.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAA8wEMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwEMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T17:48:32.364Z",
               "EditorCaption": ""
@@ -82,53 +80,51 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TamagotchiController.cs",
-              "DocumentMoniker": "C:\\prog-z\\projetos-c-\\PokePet\\Controllers\\TamagotchiController.cs",
+              "DocumentMoniker": "C:\\prog-z\\PokePet\\PokePet\\Controllers\\TamagotchiController.cs",
               "RelativeDocumentMoniker": "Controllers\\TamagotchiController.cs",
-              "ToolTip": "C:\\prog-z\\projetos-c-\\PokePet\\Controllers\\TamagotchiController.cs",
+              "ToolTip": "C:\\prog-z\\PokePet\\PokePet\\Controllers\\TamagotchiController.cs",
               "RelativeToolTip": "Controllers\\TamagotchiController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAqwCYAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T17:47:58.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\prog-z\\projetos-c-\\PokeTamaConsole\\Program.cs",
-              "RelativeDocumentMoniker": "..\\PokeTamaConsole\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\projetos-c-\\PokeTamaConsole\\Program.cs",
               "ToolTip": "C:\\prog-z\\projetos-c-\\PokeTamaConsole\\Program.cs",
-              "RelativeToolTip": "..\\PokeTamaConsole\\Program.cs",
+              "RelativeToolTip": "..\\..\\projetos-c-\\PokeTamaConsole\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:42:59.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:42:59.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "PokeTamaService.cs",
-              "DocumentMoniker": "C:\\prog-z\\projetos-c-\\PokePet\\Services\\PokeTamaService.cs",
+              "DocumentMoniker": "C:\\prog-z\\PokePet\\PokePet\\Services\\PokeTamaService.cs",
               "RelativeDocumentMoniker": "Services\\PokeTamaService.cs",
-              "ToolTip": "C:\\prog-z\\projetos-c-\\PokePet\\Services\\PokeTamaService.cs",
+              "ToolTip": "C:\\prog-z\\PokePet\\PokePet\\Services\\PokeTamaService.cs",
               "RelativeToolTip": "Services\\PokeTamaService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T17:42:23.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "MenuService.cs",
-              "DocumentMoniker": "C:\\prog-z\\projetos-c-\\PokePet\\Services\\MenuService.cs",
+              "DocumentMoniker": "C:\\prog-z\\PokePet\\PokePet\\Services\\MenuService.cs",
               "RelativeDocumentMoniker": "Services\\MenuService.cs",
-              "ToolTip": "C:\\prog-z\\projetos-c-\\PokePet\\Services\\MenuService.cs",
+              "ToolTip": "C:\\prog-z\\PokePet\\PokePet\\Services\\MenuService.cs",
               "RelativeToolTip": "Services\\MenuService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:41:01.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:41:01.303Z"
             }
           ]
         }

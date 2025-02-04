@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+LUiKQWNVCE=",
+  "dgSpecHash": "B6iYKZe/lDo=",
   "success": true,
-  "projectFilePath": "C:\\prog-z\\projetos-c-\\PokeTamaConsole\\PokePetConsole.csproj",
+  "projectFilePath": "C:\\prog-z\\PokePet\\PokeTamaConsole\\PokePetConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zadig\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\zadig\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

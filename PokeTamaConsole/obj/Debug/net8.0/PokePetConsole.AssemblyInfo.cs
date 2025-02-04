@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokePetConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcee84c6e4382c8295d7c247fb01fcf4b461814f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d60c6908efbea8e425c8e6b10d62fdaa2d4de941")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokePetConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokePetConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

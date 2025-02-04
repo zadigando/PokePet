@@ -28,26 +28,39 @@ namespace PokeTamaLibrary.Controllers
             bool jogando = true;
             while (jogando)
             {
-                string escolha = menuView.ExibirMenu();
-
-                switch (escolha)
+                string escolha;
+                do
                 {
-                    case "1":
-                        await AdotarMascoteAsync();
-                        break;
-                    case "2":
-                        menuView.MostrarMascotesAdotados(mascotesAdotados);
-                        break;
-                    case "3":
-                        menuView.ExibirMensagem("Obrigado por jogar! 👋");
-                        jogando = false;
-                        break;
-                    default:
-                        menuView.ExibirMensagem("Opção inválida! Tente novamente.");
-                        break;
+                    escolha = menuView.ExibirMenu();
+                    if (escolha != "1" && escolha != "2" && escolha != "3")
+                    {
+                        menuView.ExibirMensagem("❌ Opção inválida! Digite 1, 2 ou 3.");
+                    }
+                } while (escolha != "1" && escolha != "2" && escolha != "3");
+
+                try
+                {
+                    switch (escolha)
+                    {
+                        case "1":
+                            await AdotarMascoteAsync();
+                            break;
+                        case "2":
+                            menuView.MostrarMascotesAdotados(mascotesAdotados);
+                            break;
+                        case "3":
+                            menuView.ExibirMensagem("Obrigado por jogar! 👋");
+                            jogando = false;
+                            break;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    menuView.ExibirMensagem($"❌ Erro inesperado: {ex.Message}");
                 }
             }
         }
+
 
         private async Task AdotarMascoteAsync()
         {

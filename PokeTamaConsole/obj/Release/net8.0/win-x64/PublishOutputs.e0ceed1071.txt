@@ -1,0 +1,14 @@
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\PokePetConsole.exe
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\PokePetConsole.dll
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\PokePetConsole.deps.json
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\PokePetConsole.runtimeconfig.json
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\PokePetConsole.pdb
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\AutoMapper.dll
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\Microsoft.Extensions.Options.dll
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\Microsoft.Extensions.Primitives.dll
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\Newtonsoft.Json.dll
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\RestSharp.dll
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\PokePetLibrary.dll
+C:\prog-z\PokePet\PokeTamaConsole\bin\Release\net8.0\win-x64\publish\PokePetLibrary.pdb

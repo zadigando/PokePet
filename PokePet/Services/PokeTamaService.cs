@@ -12,7 +12,7 @@ namespace PokeTamaLibrary.Services
         {
             if (string.IsNullOrEmpty(pokemonName))
             {
-                Console.WriteLine("Nome inválido!");
+                Console.WriteLine("❌ Nome inválido! Tente novamente.");
                 return null;
             }
 
@@ -20,18 +20,31 @@ namespace PokeTamaLibrary.Services
 
             using (HttpClient client = new HttpClient())
             {
-                HttpResponseMessage response = await client.GetAsync(url);
-
-                if (response.IsSuccessStatusCode)
+                try
                 {
+                    HttpResponseMessage response = await client.GetAsync(url);
+
+                    if (!response.IsSuccessStatusCode)
+                    {
+                        Console.WriteLine("⚠️ A API do Pokémon está indisponível no momento. Tente novamente mais tarde.");
+                        return null;
+                    }
+
                     string jsonResponse = await response.Content.ReadAsStringAsync();
                     return JsonSerializer.Deserialize<Mascote>(jsonResponse, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
                 }
-                else
+                catch (HttpRequestException)
                 {
+                    Console.WriteLine("❌ Erro ao conectar com a PokeAPI. Verifique sua conexão.");
+                    return null;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"❌ Erro inesperado: {ex.Message}");
                     return null;
                 }
             }
         }
+
     }
 }
